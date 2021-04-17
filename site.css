@@ -76,7 +76,7 @@ h3{
 .click{
     background-color: rgb(201, 191, 191);
     border:solid 2px black;
-    font-size: 26px; 
+    font-size: 22px; 
     border-radius:7%;
     -webkit-transition-duration: 0.4s; 
      transition-duration: 0.4s;
